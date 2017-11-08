@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\pro1.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{5BC14E97-FB81-4CEB-9B84-B30D8A4361B4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\pro1.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\pro1Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{56536D74-F987-4666-AFA4-41276884DBEA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\pro1">
+			<UniqueIdentifier>{2F606646-C896-4AF2-B0DA-160E21C77A01}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\pro1\pro1.Build.cs">
+			<Filter>Source\pro1</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\pro1\pro1.cpp">
+			<Filter>Source\pro1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\pro1\pro1.h">
+			<Filter>Source\pro1</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\pro1\pro1GameModeBase.cpp">
+			<Filter>Source\pro1</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\pro1\pro1GameModeBase.h">
+			<Filter>Source\pro1</Filter>
+		</ClInclude >
+		<Filter Include="Source\pro1\Private">
+			<UniqueIdentifier>{C30F1D66-B1CB-4852-B17C-B1A16B1A60C8}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\pro1\Private\DnDGameMode.cpp">
+			<Filter>Source\pro1\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\pro1\Private\DnDGameState.cpp">
+			<Filter>Source\pro1\Private</Filter>
+		</ClCompile >
+		<ClCompile Include="..\..\Source\pro1\Private\MyPlayer.cpp">
+			<Filter>Source\pro1\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\pro1\Private\Card">
+			<UniqueIdentifier>{00815740-D362-4D34-BF6B-BDE825EDDA3B}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\pro1\Private\Card\Card.cpp">
+			<Filter>Source\pro1\Private\Card</Filter>
+		</ClCompile >
+		<Filter Include="Source\pro1\Private\Item">
+			<UniqueIdentifier>{350C2030-B4AE-42A9-829C-7B4AA7663E14}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\pro1\Private\Item\Item.cpp">
+			<Filter>Source\pro1\Private\Item</Filter>
+		</ClCompile >
+		<Filter Include="Source\pro1\Public">
+			<UniqueIdentifier>{4E012378-0B37-485E-AE5E-D6953F4A4203}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\pro1\Public\DnDGameMode.h">
+			<Filter>Source\pro1\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\pro1\Public\DnDGameState.h">
+			<Filter>Source\pro1\Public</Filter>
+		</ClInclude >
+		<ClInclude Include="..\..\Source\pro1\Public\MyPlayer.h">
+			<Filter>Source\pro1\Public</Filter>
+		</ClInclude >
+		<Filter Include="Source\pro1\Public\Card">
+			<UniqueIdentifier>{35B98CD4-29B9-466F-A45F-B8EFAD77849D}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\pro1\Public\Card\Card.h">
+			<Filter>Source\pro1\Public\Card</Filter>
+		</ClInclude >
+		<Filter Include="Source\pro1\Public\Item">
+			<UniqueIdentifier>{3A48CBF4-464C-40DF-9DDA-EED186039D79}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\pro1\Public\Item\Item.h">
+			<Filter>Source\pro1\Public\Item</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

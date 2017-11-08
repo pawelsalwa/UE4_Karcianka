@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-pro1-9169.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Programs\UE_4.17\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\pro1.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\pro1GameModeBase.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\DnDGameMode.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\DnDGameState.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\MyPlayer.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\Card.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\Item.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\Card.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\DnDGameMode.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\DnDGameState.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\Item.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\MyPlayer.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\pro1.init.gen.cpp.obj"
+"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\pro1\pro1GameModeBase.gen.cpp.obj"
+"E:\Programs\UE_4.17\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\pro1\PCLaunch.rc.res"
+"E:\Programs\UE_4.17\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Salveiro\Documents\Unreal Projects\pro1\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-pro1-9169.lib"
